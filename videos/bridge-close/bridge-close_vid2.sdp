@@ -1,0 +1,13 @@
+* File SDP content *
+
+b=AS:95
+a=x-copyright: MP4/3GP File hinted with GPAC 0.7.2-DEV-rev1110-g0165de08-master (C)2000-2016 - http://gpac.io
+
+m=video 12346 RTP/AVP 96
+b=AS:95
+a=rtpmap:96 H264/90000
+a=control:trackID=65536
+a=fmtp:96 profile-level-id=1; config=000001b001000001b58913000001000000012000c48d8801e50b04241443000001b24c61766335382e35322e313031
+a=framesize:96 352-288
+
+
